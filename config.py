@@ -4,7 +4,7 @@ from enum import Enum
 
 
 class Config:
-    # Your config! Go ahead and edit with your own values.
+    # Your config! Go ahead and edit with your own values. More values
 
     USER = "cyprus247"  # UPDATE THIS WITH YOUR GITHUB HANDLE IN THE AlmostOps STAGE OF THE WORKSHOP
     EXPERIMENT_ID = "5"  # update with what mlflow_setup.py returns
